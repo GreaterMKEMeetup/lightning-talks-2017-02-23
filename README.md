@@ -14,4 +14,4 @@ Quick overview of the evolution of Web Applications.
 Quick presentation on the elegance of the JVM Language Scala
 
 [scala_presentation]: https://slides.com/richardhsu/scala-in-a-nutshell
-[frontend_presentation]: https://github.com/GreaterMKEMeetup/lightning-talks-2017-02-23/blob/master/frontvsback.pptx
+[frontend_presentation]: https://github.com/GreaterMKEMeetup/lightning-talks-2017-02-23/raw/master/frontvsback.pptx
